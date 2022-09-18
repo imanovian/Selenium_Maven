@@ -7,7 +7,6 @@
 <classes>
       
       <class name="testcases.SimplilearnLoginTest"/>
-		<class name="testcases.HomeTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
